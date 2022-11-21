@@ -15,7 +15,7 @@ setup(
         "matplotlib",
         "argparse",
         "tqdm",
-        "tensorflow==2.2",
+        "tensorflow==2.9.3",
         "pytest>=4.6",
         "pytest-cov",
         "pytest-dependency",
